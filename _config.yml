@@ -21,7 +21,7 @@
 title: John's blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog for John Hong focusing on software and software adjacent-topics. 
+  Personal blog for John Hong focusing on software development and adjacent-topics.
 
   Status: In-progress...
 baseurl: "" # the subpath of your site, e.g. /blog
